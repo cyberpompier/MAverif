@@ -1,0 +1,21 @@
+{
+  "name": "Pompier Equipement",
+  "short_name": "PompierApp",
+  "description": "Application de vérification du matériel des véhicules de sapeur-pompier",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f8f8",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
